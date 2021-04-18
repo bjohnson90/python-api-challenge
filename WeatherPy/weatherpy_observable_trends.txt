@@ -1,0 +1,7 @@
+3 Observable Trends:
+
+1. The graphs for Temperature vs Latitude for the entire globe and the individual hemispheres show
+that the temperature increases as the latitude approaches 0.
+2. The graphs for Humidity vs Latitude and Cloudiness vs. Latitude do not seem to be coorelated with 
+proximity to the equator.
+3. The graphs for Wind Speed show that the wind speed decreases as the latitude approaches 0.
